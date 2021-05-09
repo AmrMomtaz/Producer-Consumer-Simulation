@@ -61,9 +61,9 @@ public class GUI extends JFrame {
         newSimulation = new JButton("New");
         runSimulation = new JButton("Run");
         replaySimulation = new JButton("Replay");
-        addMachine = new JButton("addMachine");
-        addQueue = new JButton("addQueue");
-        connect = new JButton("connect");
+        addMachine = new JButton("Add Machine");
+        addQueue = new JButton("Add Queue");
+        connect = new JButton("Connect");
         newSimulation.setSize(BUTTON_WIDTH, BUTTON_HEIGHT);
         runSimulation.setSize(BUTTON_WIDTH, BUTTON_HEIGHT);
         replaySimulation.setSize(BUTTON_WIDTH, BUTTON_HEIGHT);
